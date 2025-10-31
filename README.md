@@ -33,7 +33,7 @@ A lightweight, privacy-focused Firefox extension that blocks distracting website
 
 ### Option 1: Install from GitHub (manual)
 
-1. Download the latest release: [`website-blocker.zip`](https://github.com/yourusername/website-blocker/releases/latest)
+1. Download the latest release: [`release.zip`](https://github.com/mrfawy/focus-guard/releases/latest)
 2. Open Firefox → go to `about:addons`
 3. Click ⚙️ → **"Install Add-on From File..."**
 4. Select the downloaded `.zip` file
